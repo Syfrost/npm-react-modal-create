@@ -1,0 +1,32 @@
+{
+  "name": "react-modal-create",
+  "version": "1.0.0",
+  "main": "src/ModalComponent.js",
+  "description": "Convert an element to a modal",
+  "dependencies": {
+    "js-tokens": "^4.0.0",
+    "loose-envify": "^1.4.0",
+    "object-assign": "^4.1.1",
+    "peer": "^1.0.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "scheduler": "^0.20.2"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syfrost/npm-react-modal-create.git"
+  },
+  "keywords": [
+    "react",
+    "modal"
+  ],
+  "author": "Cédric GEORGES",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Syfrost/npm-react-modal-create/issues"
+  },
+  "homepage": "https://github.com/Syfrost/npm-react-modal-create#readme"
+}
